@@ -1,4 +1,4 @@
-Preparar a Arduino IDE
+Como configurar o ESP32-2432S028-CYD
 
 1. **Baixe e instale** a versão mais recente da [Arduino IDE](https://www.arduino.cc/en/software) se ainda não tiver.
     
