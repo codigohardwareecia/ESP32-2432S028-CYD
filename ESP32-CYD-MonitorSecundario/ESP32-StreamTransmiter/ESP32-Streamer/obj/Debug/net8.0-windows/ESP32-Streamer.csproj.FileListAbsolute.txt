@@ -1,0 +1,16 @@
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\bin\Debug\net8.0-windows\ESP32-Streamer.exe
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\bin\Debug\net8.0-windows\ESP32-Streamer.deps.json
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\bin\Debug\net8.0-windows\ESP32-Streamer.runtimeconfig.json
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\bin\Debug\net8.0-windows\ESP32-Streamer.dll
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\bin\Debug\net8.0-windows\ESP32-Streamer.pdb
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32_Streamer.Form1.resources
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.csproj.GenerateResource.cache
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.AssemblyInfoInputs.cache
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.AssemblyInfo.cs
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.csproj.CoreCompileInputs.cache
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.dll
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\refint\ESP32-Streamer.dll
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.pdb
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ESP32-Streamer.genruntimeconfig.cache
+C:\Users\principal\Downloads\ESP32-Streamer\ESP32-Streamer\obj\Debug\net8.0-windows\ref\ESP32-Streamer.dll
