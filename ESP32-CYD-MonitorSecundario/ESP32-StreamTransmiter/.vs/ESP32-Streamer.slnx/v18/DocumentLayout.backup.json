@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\",
+  "WorkspaceRootPath": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|c:\\users\\principal\\downloads\\esp32-streamer\\esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|solutionrelative:esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AF249FC-2CD4-1C94-81ED-7C8C632D961C}|ESP32-Streamer\\ESP32-Streamer.csproj|d:\\storage\\canal youtube\\c\u00F3digo, hardware e cia\\github\\esp32-2432s028-cyd\\esp32-cyd-monitorsecundario\\esp32-streamtransmiter\\esp32-streamer\\streamtransmiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF249FC-2CD4-1C94-81ED-7C8C632D961C}|ESP32-Streamer\\ESP32-Streamer.csproj|solutionrelative:esp32-streamer\\streamtransmiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|c:\\users\\principal\\downloads\\esp32-streamer\\esp32-streamer\\streamtransmiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|solutionrelative:esp32-streamer\\streamtransmiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|c:\\users\\principal\\downloads\\esp32-streamer\\esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5176DD85-65E0-4CB9-9AAE-FD8AABFF5CC0}|ESP32-Streamer\\ESP32-Streamer.csproj|solutionrelative:esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF249FC-2CD4-1C94-81ED-7C8C632D961C}|ESP32-Streamer\\ESP32-Streamer.csproj|d:\\storage\\canal youtube\\c\u00F3digo, hardware e cia\\github\\esp32-2432s028-cyd\\esp32-cyd-monitorsecundario\\esp32-streamtransmiter\\esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF249FC-2CD4-1C94-81ED-7C8C632D961C}|ESP32-Streamer\\ESP32-Streamer.csproj|solutionrelative:esp32-streamer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\ESP32-Streamer\\Form1.cs",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\ESP32-Streamer\\Form1.cs",
               "RelativeDocumentMoniker": "ESP32-Streamer\\Form1.cs",
-              "ToolTip": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\ESP32-Streamer\\Form1.cs",
+              "ToolTip": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\ESP32-Streamer\\Form1.cs",
               "RelativeToolTip": "ESP32-Streamer\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T15:47:07.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StreamTransmiter.cs",
-              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\ESP32-Streamer\\StreamTransmiter.cs",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\ESP32-Streamer\\StreamTransmiter.cs",
               "RelativeDocumentMoniker": "ESP32-Streamer\\StreamTransmiter.cs",
-              "ToolTip": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\ESP32-Streamer\\StreamTransmiter.cs",
+              "ToolTip": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\ESP32-Streamer\\StreamTransmiter.cs",
               "RelativeToolTip": "ESP32-Streamer\\StreamTransmiter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T15:40:27.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\ESP32-Streamer\\Form1.cs",
+              "DocumentMoniker": "D:\\Storage\\Canal Youtube\\C\u00F3digo, Hardware e Cia\\GitHub\\ESP32-2432S028-CYD\\ESP32-CYD-MonitorSecundario\\ESP32-StreamTransmiter\\ESP32-Streamer\\Form1.cs",
               "RelativeDocumentMoniker": "ESP32-Streamer\\Form1.cs",
               "ToolTip": "C:\\Users\\principal\\Downloads\\ESP32-Streamer\\ESP32-Streamer\\Form1.cs [Design]",
-              "RelativeToolTip": "ESP32-Streamer\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T15:39:44.145Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-07-02T15:39:44.145Z"
             }
           ]
         }
