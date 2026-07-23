@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#0A0F0A">
+
+    <!-- CABEÇALHO -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="ESP32 VU Meter"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView        android:id="@+id/txtStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Verificando dispositivo..."
+        android:textColor="#888888"
+        android:textSize="14sp" />
+
+    <!-- BOTÃO LOGO ACIMA DO GRÁFICO (Fácil Acesso) -->
+    <Button
+        android:id="@+id/btnConnect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="8dp"
+        android:padding="12dp"
+        android:text="Conectar"
+        android:textSize="16sp" />
+
+    <!-- GRÁFICO VU METER PREENCHENDO O RESTANTE DA TELA -->
+    <com.seunome.esp32vumeter.VuMeterView
+        android:id="@+id/vuMeterView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
